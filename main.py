@@ -1,4 +1,3 @@
-import imp
 from tkinter.messagebox import NO
 from typing import Optional
 from fastapi import FastAPI
